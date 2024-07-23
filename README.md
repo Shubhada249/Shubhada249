@@ -2,10 +2,10 @@
 <h3 align="center">Assistant System Engineer at TCS</h3>
 <br><br>
 
- ✨ A passionate and driven software engineer
- ✨ Former ML Intern at Verzeo 
- ✨ Full-Stack Developer
- ✨ Solved 450+ DS Algo problems
+ ✨ A passionate and driven software engineer <br>
+ ✨ Former ML Intern at Verzeo <br>
+ ✨ Full-Stack Developer <br>
+ ✨ Solved 450+ DS Algo problems <br>
  ✨ reach me at **shubhada.rajmane007@gmail.com**
 <br><br><br>
 <h3 align="left">Connect with me:</h3>
